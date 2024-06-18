@@ -33,7 +33,9 @@ npm install yup
 
 
 ## Commit type	Emoji
-- Initial commit	🎉 :tada:
-- Version tag	    🔖 :bookmark:
-- New feature	    ✨ :sparkles:
-- Bugfix	        🐛 :bug:
+|   Commit type              | Emoji                                         |
+|:---------------------------|:----------------------------------------------|
+| Initial commit             | :tada: `:tada:`                               |
+| Version tag                | :bookmark: `:bookmark:`                       |
+| New feature                | :sparkles: `:sparkles:`                       |
+| Bugfix                     | :bug: `:bug:`                                 |
