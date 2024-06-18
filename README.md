@@ -27,3 +27,6 @@ npm install bcrypt
 
 # para retornar erro ao frontend
 npm install yup
+
+# arquivo consulta da API (insomnia)
+ Insomnia_crud-node-users.json
