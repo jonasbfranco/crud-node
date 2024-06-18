@@ -32,8 +32,8 @@ npm install yup
  Insomnia_crud-node-users.json
 
 
-Commit type	Emoji
-Initial commit	🎉 :tada:
-Version tag	    🔖 :bookmark:
-New feature	    ✨ :sparkles:
-Bugfix	        🐛 :bug:
+## Commit type	Emoji
+- Initial commit	🎉 :tada:
+- Version tag	    🔖 :bookmark:
+- New feature	    ✨ :sparkles:
+- Bugfix	        🐛 :bug:
