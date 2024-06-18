@@ -30,3 +30,10 @@ npm install yup
 
 # arquivo consulta da API (insomnia)
  Insomnia_crud-node-users.json
+
+
+Commit type	Emoji
+Initial commit	🎉 :tada:
+Version tag	    🔖 :bookmark:
+New feature	    ✨ :sparkles:
+Bugfix	        🐛 :bug:
