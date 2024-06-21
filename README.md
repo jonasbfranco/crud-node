@@ -1,3 +1,6 @@
+# video do projeto
+https://www.youtube.com/watch?v=gnq8ZY85UUM
+
 # iniciar o projeto
 npm init -y
 
